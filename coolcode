@@ -1,0 +1,15 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int miles=375;
+    int gallon=15;
+    int MPG=miles/gallon;
+
+    cout<<MPG<<" miles per gallon" <<endl;
+    return 0;
+
+
+}
